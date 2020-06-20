@@ -1,7 +1,7 @@
 ---
 title: Saman Tamkeen
 role: Data Scientist @ GoIbibo
-avatar_filename: me.jpg
+avatar_filename: avatar.jpg
 organizations: []
 superuser: true
 authors:
