@@ -1,10 +1,11 @@
 ---
+title: Saman Tamkeen
+role: Data Scientist @ GoIbibo
+avatar_filename: me.jpg
 organizations: []
 superuser: true
 authors:
   - admin
-title: Saman Tamkeen
-role: Data Scientist @ GoIbibo
 bio: My research interests include distributed computing, big data technologies
   and data science.
 interests:
