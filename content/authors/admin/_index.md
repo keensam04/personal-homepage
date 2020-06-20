@@ -1,6 +1,6 @@
 ---
 title: Saman Tamkeen
-role: Data Scientist @ GoIbibo
+role: Engineer turned Data Scientist
 avatar_filename: avatar.jpg
 organizations: []
 superuser: true
