@@ -1,75 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
+organizations: []
 superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+authors:
+  - admin
+title: Saman Tamkeen
+role: Data Scientist @ GoIbibo
+bio: My research interests include distributed computing, big data technologies
+  and data science.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Artificial Intelligence
+  - Recommender Systems
+  - Distributed computing
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/keensam04
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/samantamkeen/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/keensam04
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PG Diploma in Machine Learning & Artificial Intelligence
+      institution: IIITB
+      year: 2021
+    - course: M.Tech in Software Engineering
+      institution: BITS Pilani
+      year: 2016
+    - course: B.Tech in Electronics & Communication Engineering
+      institution: Chandigarh University
+      year: 2013
+email: keensam04@gmail.com
 user_groups:
-- Researchers
-- Visitors
+  - ""
 ---
+Started my professional career with SAP Labs India in 2014. I joined as a Scholar@SAP (work integrated learning program) straight out of college. I had the opportunity to work on various aspects of enterprise software from front-end to storage and middleware layers while rotating across SAP business areas. At the same time, I was studying DS, algo, design patterns, usability engineering, etc. as part of M.Tech curriculum. Coming from a non-CS (ECE) background, this was a perfect mix that helped shape my understanding of the software world.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In college days I was into embedded systems. IoT team at SAP was thus my go-to team. This was my next leap. I joined the team expecting to work on hardware-software combination, but ended up working on cloud-based platform for IoT devices. This broadened my awareness on the vastness of software engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I started out with writing REST services for modelling real world devices into the platform and gradually moved to storing and managing live data from devices. Past my fancy for embedded systems, I took a plunge into big data. Formally, I worked on timeseries ingestion where i had the chance of working with distributed systems like Spark, Kafka, Cassandra, lambda architecture, etc.
+
+Having worked with big data for a while, I got interested in its applications (predictive maintenance, forecasting, etc.). This led me to join the PG diploma course in ML&AI which has been quite engaging since. My responsibilities at current organisation enables me to practice my learnings on real-world business problems thus helping me learn better.
+
+I crave to be an aficionado of technology and am a strong believer in the following quote by Scott Adams:\
+"Technology will definitely solve all our problems, but in the process it will create brand new ones. But that's O.K. Because the most you can expect from life is to get to solve better and better problems"
