@@ -29,13 +29,13 @@ education:
   courses:
     - course: PG Diploma in Machine Learning & Artificial Intelligence
       institution: IIITB
-      year: 2021
+      year: 2019
     - course: M.Tech in Software Engineering
       institution: BITS Pilani
       year: 2016
     - course: B.Tech in Electronics & Communication Engineering
       institution: Chandigarh University
-      year: 2013
+      year: 2014
 email: keensam04@gmail.com
 user_groups:
   - ""
