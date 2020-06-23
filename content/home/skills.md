@@ -15,22 +15,58 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Python"
+  description = "80%"
+
+[[feature]]
+  icon = "Apache_Spark_logo"
+  icon_pack = "custom"
+  name = "Spark"
+  description = "80%"
+
+[[feature]]
+  icon = "scala"
+  icon_pack = "custom"
+  name = "Scala"
+  description = "70%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Sql"
+  description = "80%"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "80%"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "90%"
+
+[[feature]]
+  icon = "ml_ai"
+  icon_pack = "custom"
+  name = "Machine Learning"
+  description = "70%"
+
+[[feature]]
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Visualization"
+  description = "60%"
+
+[[feature]]
+  icon = "node-js"
+  icon_pack = "fab"
+  name = "Javascript"
+  description = "60%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
