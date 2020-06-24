@@ -48,4 +48,4 @@ During this time, I had been working on ingestion pipeline for timeseries data w
 
 The below image best describes me as a data scientist
 
-![](dunning–kruger_effect.png)
+![](/author/saman-tamkeen/dunning–kruger_effect.png)
