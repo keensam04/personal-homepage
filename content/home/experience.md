@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Bengaluru, India"
   date_start = "2020-02-01"
   date_end = ""
-  description = """Responsible for Goibibo's core ranking and recommendation platform for hotels. Have worked on word embedding models, relevance optimisation using regression and classification techniques. Currently working on deploying Learning to Rank algorithms."""
+  description = """Responsible for Goibibo's core ranking and recommendation platform for hotels. Have worked on collaborative filtering, word embedding models, relevance optimisation using regression and classification techniques. Currently working on deploying Learning to Rank algorithms."""
 
 [[experience]]
   title = "Senior Software Engineer"
@@ -33,6 +33,36 @@ date_format = "Jan 2006"
   location = "Bengaluru, India"
   date_start = "2018-06-01"
   date_end = "2020-01-31"
-  description = """"""
+  description = """
+  Responsible for building and deploying scalable applications for Goibibo's core ranking and recommendation platform for hotels. Have implemented drools based A/B framework to test and compare the various ranking algorithms.
+  """
+
+[[experience]]
+  title = "Developer"
+  company = "SAP Labs India"
+  company_url = "https://www.sap.com/india/about.saplabsindia.html"
+  location = "Bengaluru, India"
+  date_start = "2016-04-01"
+  date_end = "2018-05-25"
+  description = """
+  Responsibilities included:
+  * Implementation of REST APIs in Java for ingesting timeseries data into the IoT Application Enablement Platform – a PaaS offering
+  * Building a big-data enabled timeseries store using the lambda architecture (Cassandra as the warm store, SAP HANA as hot store and S3 as cold store)
+  * Construction of real-time ingestion pipeline in Spark for timeseries data streaming into the system from the devices
+  * Migration of timeseries data for tenants from non-bigdata store to big-data store
+  """
+
+[[experience]]
+  title = "Scholar"
+  company = "SAP Labs India"
+  company_url = "https://www.sap.com/india/about/careers/students-graduates/students/vocational-training.html"
+  location = "Bengaluru, India"
+  date_start = "2014-08-01"
+  date_end = "2016-03-31"
+  description = """
+  * Pursued M.Tech. along with working for different teams at SAP (Work Integrated Learning Program)
+  * Developed UI for managing work packages in integration flows for HANA Cloud Integration
+  * Developed UI and back-end services for an internal job-portal
+  """
 
 +++
