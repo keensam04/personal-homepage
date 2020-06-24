@@ -40,13 +40,12 @@ email: keensam04@gmail.com
 user_groups:
   - ""
 ---
-Started my professional career with SAP Labs India in 2014. I joined as a Scholar@SAP (work integrated learning program) straight out of college. I had the opportunity to work on various aspects of enterprise software from front-end to storage and middleware layers while rotating across SAP business areas. At the same time, I was studying DS, algo, design patterns, usability engineering, etc. as part of M.Tech curriculum. Coming from a non-CS (ECE) background, this was a perfect mix that helped shape my understanding of the software world.
+With an overall experience of 6 years in software development and application engineering, I almost fulfil the 10,000 hour rule. But I still consider myself a student of technology rather than an expert. 
 
-In college days I was into embedded systems. IoT team at SAP was thus my go-to team. This was my next leap. I joined the team expecting to work on hardware-software combination, but ended up working on cloud-based platform for IoT devices. This broadened my awareness on the vastness of software engineering.
+In the several years I have had the chance to work on different aspects of enterprise software including front-end (not so much), middleware and storage. I grew fond of Java in my early years and ran with it for a while. I was fortunate enough to get exposure to distributed computing soon enough and got my hands dirty with real-time pipelines leveraging Spark, Kafka, Cassandra, etc.
 
-I started out with writing REST services for modelling real world devices into the platform and gradually moved to storing and managing live data from devices. Past my fancy for embedded systems, I took a plunge into big data. Formally, I worked on timeseries ingestion where i had the chance of working with distributed systems like Spark, Kafka, Cassandra, lambda architecture, etc.
+During this time, I had been working on ingestion pipeline for timeseries data which would then be used for analytics. Curious as I was, I wanted to try out analytics and got into data science. 
 
-Having worked with big data for a while, I got interested in its applications (predictive maintenance, forecasting, etc.). This led me to join the PG diploma course in ML&AI which has been quite engaging since. My responsibilities at current organisation enables me to practice my learnings on real-world business problems thus helping me learn better.
+The below image best describes me as a data scientist
 
-I crave to be an aficionado of technology and am a strong believer in the following quote by Scott Adams:\
-"Technology will definitely solve all our problems, but in the process it will create brand new ones. But that's O.K. Because the most you can expect from life is to get to solve better and better problems"
+![](dunning–kruger_effect.png)
