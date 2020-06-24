@@ -1,7 +1,7 @@
 ---
 title: Saman Tamkeen
 role: Engineer turned Data Scientist
-avatar_filename: avatar.jpg
+avatar_filename: me.jpg
 organizations: []
 superuser: true
 authors:
