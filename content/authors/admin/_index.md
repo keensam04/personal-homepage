@@ -1,7 +1,7 @@
 ---
 title: Saman Tamkeen
 role: Engineer turned Data Scientist
-avatar_filename: me.jpg
+avatar_filename: dunning–kruger_effect.png
 organizations: []
 superuser: true
 authors:
