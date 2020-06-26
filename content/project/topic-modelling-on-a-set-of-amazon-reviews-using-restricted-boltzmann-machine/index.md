@@ -6,6 +6,10 @@ summary: Topic Modelling is the art and science of identifying the 'latent
   model finds the topics that describe the corpus.
 draft: false
 featured: false
+tags:
+  - NLP
+  - ML/AI
+  - Probabilistic Graphical Model
 external_link: https://github.com/keensam04/upgrad_pgdmlai/tree/master/TopicModelling_RBM
 image:
   filename: rbm.png
