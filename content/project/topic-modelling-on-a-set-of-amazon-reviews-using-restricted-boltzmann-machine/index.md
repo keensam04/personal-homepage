@@ -1,5 +1,5 @@
 ---
-title: Topic Modelling on a set of Amazon reviews using Restricted Boltzmann Machine
+title: Topic Modelling using RBM
 date: 2020-06-26T12:38:27.447Z
 draft: false
 featured: false
