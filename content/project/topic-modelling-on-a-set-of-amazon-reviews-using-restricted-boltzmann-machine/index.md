@@ -12,7 +12,7 @@ tags:
   - Probabilistic Graphical Model
 external_link: https://github.com/keensam04/upgrad_pgdmlai/tree/master/TopicModelling_RBM
 image:
-  filename: rbm.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
