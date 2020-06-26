@@ -10,7 +10,7 @@ tags:
   - Reinforcement Learning
 external_link: https://github.com/keensam04/upgrad_pgdmlai/tree/master/SuperCabs
 image:
-  filename: taxi.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
