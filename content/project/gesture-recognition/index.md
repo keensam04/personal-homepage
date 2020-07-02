@@ -5,6 +5,9 @@ summary: Recognise different gestures performed by the user to control the TV
   without using a remote
 draft: false
 featured: false
+tags:
+  - ML/AI
+  - ANN
 external_link: https://github.com/keensam04/upgrad_pgdmlai/tree/master/Gesture_Recognition
 image:
   filename: featured.jpg
