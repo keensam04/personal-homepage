@@ -5,6 +5,9 @@ summary: Model the price of cars to understand the factors on which the pricing
   of cars depends
 draft: false
 featured: false
+tags:
+  - ML/AI
+  - Regression
 external_link: https://github.com/keensam04/upgrad_pgdmlai/tree/master/Geely_Auto
 image:
   filename: featured.jpg
