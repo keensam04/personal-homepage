@@ -18,16 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data Scientist"
+  title = "Senior Software Engineer"
+  company = "Intuit"
+  company_url = "https://www.intuit.com/company/"
+  location = "Bengaluru, India"
+  date_start = "2021-04-26"
+  date_end = ""
+  description = """Part of a team which is responsible for building reporting as a foundational capability to be used by different applications. Helped build ingestion pipeline to bring data into reporting mart in near realtime. Currently exploring ideas around content-based report recommendation"""
+
+[[experience]]
+  title = "Senior Data Scientist II"
   company = "Goibibo"
   company_url = "https://www.goibibo.com/aboutus/"
   location = "Bengaluru, India"
   date_start = "2020-02-01"
-  date_end = ""
-  description = """Responsible for Goibibo's core ranking and recommendation platform for hotels. Have worked on collaborative filtering, word embedding models, relevance optimisation using regression and classification techniques. Currently working on deploying Learning to Rank algorithms."""
+  date_end = "2021-04-23"
+  description = """Responsible for Goibibo's core ranking and recommendation platform for hotels. Have worked on collaborative filtering, word embedding models, relevance optimisation using regression and classification techniques. Worked on deploying Learning to Rank algorithms to enable users discover the most relevant accomodation."""
 
 [[experience]]
-  title = "Senior Software Engineer"
+  title = "Senior Software Engineer I"
   company = "Goibibo"
   company_url = "https://www.goibibo.com/aboutus/"
   location = "Bengaluru, India"
