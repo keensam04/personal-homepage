@@ -93,11 +93,11 @@ phone = "+91 8971779822"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Dooravani Nagar", city = "Bengaluru", region = "Karnataka", postcode = "560016", country = "India", country_code = "IN"}
+address = {street = "Vijayanagar", city = "Bengaluru", region = "Karnataka", postcode = "560026", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "13.002159", longitude = "77.670920"}
+coordinates = {latitude = "12.966409588000397", longitude = "77.54925587179625"}
 
 # Directions for visitors to locate you.
 directions = ""
