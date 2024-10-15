@@ -50,6 +50,6 @@ In the several years I have had the chance to work on different aspects of enter
 
 During this time, I had been working on ingestion pipeline for timeseries data which would then be used for analytics. Curious as I was, I wanted to try out analytics and got into data science.
 
-The below image best describes me as a data scientist
+The below image best describes me as a data science enthusiast
 
 ![](/author/saman-tamkeen/dunning–kruger_effect.png)
