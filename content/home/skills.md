@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = "90%"
 
 [[feature]]
   icon = "Apache_Spark_logo"
@@ -42,7 +42,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "80%"  
+  description = "60%"  
 
 [[feature]]
   icon = "java"
@@ -60,7 +60,7 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Visualization"
-  description = "60%"
+  description = "70%"
 
 [[feature]]
   icon = "node-js"
