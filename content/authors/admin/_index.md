@@ -1,6 +1,6 @@
 ---
 title: Saman Tamkeen
-role: Engineer turned Data Scientist
+role: Engineer with a knack for Data Science
 avatar_filename: avatar.jpg
 organizations: []
 superuser: true
@@ -30,7 +30,7 @@ education:
   courses:
     - course: Masters in Machine Learning & Artificial Intelligence
       institution: Liverpool John Moores University
-      year: 2023 (Pursuing)
+      year: 2023
     - course: PG Diploma in Machine Learning & Artificial Intelligence
       institution: IIITB
       year: 2019
@@ -44,7 +44,7 @@ email: keensam04@gmail.com
 user_groups:
   - ""
 ---
-With an overall experience of 8+ years in software development and application engineering, I almost fulfil the 10,000 hour rule. But I still consider myself a student of technology rather than an expert.
+With an overall experience of 10+ years in software development and application engineering, I almost fulfil the 10,000 hour rule. But I still consider myself a student of technology rather than an expert.
 
 In the several years I have had the chance to work on different aspects of enterprise software including front-end (not so much), middleware and storage. I grew fond of Java in my early years and ran with it for a while. I was fortunate enough to get exposure to distributed computing soon enough and got my hands dirty with real-time pipelines leveraging Spark, Kafka, Cassandra, etc.
 
