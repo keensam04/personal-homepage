@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Machine Learning Engineer"
+  company = "Intuit"
+  company_url = "https://www.intuit.com/company/"
+  location = "Bengaluru, India"
+  date_start = "2023-11-01"
+  date_end = ""
+  description = """Part of a team which is responsible for building financial AI solutions to better the experience of businesses"""
+
+[[experience]]
   title = "Senior Software Engineer"
   company = "Intuit"
   company_url = "https://www.intuit.com/company/"
   location = "Bengaluru, India"
   date_start = "2021-04-26"
-  date_end = ""
+  date_end = "2023-10-31"
   description = """Part of a team which is responsible for building reporting as a foundational capability to be used by different applications. Helped build ingestion pipeline to bring data into reporting mart in near realtime. Currently exploring ideas around content-based report recommendation"""
 
 [[experience]]
