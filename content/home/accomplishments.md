@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "US 12131193 B1"
+  organization_url = ""
+  title = "SMART AND OPTIMIZED DATA LOADER"
+  url = ""
+  certificate_url = "https://patentcenter.uspto.gov/applications/18352983"
+  date_start = "2024-10-29"
+  date_end = ""
+  description = "A novel use of AI/MD for controlling software agent workers for migrating data between databasesA novel use of AI/MD for controlling software agent workers for migrating data between databases."
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Recommender Systems Specialization"
