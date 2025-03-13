@@ -20,11 +20,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "US 12131193 B1"
-  organization_url = ""
+  organization_url = "https://patentcenter.uspto.gov/applications/18352983"
   title = "SMART AND OPTIMIZED DATA LOADER"
   url = ""
-  certificate_url = "https://patentcenter.uspto.gov/applications/18352983"
-  date_start = "2024-10-29"
+  certificate_url = ""
+  date_start = "2024-10-09"
   date_end = ""
   description = "A novel use of AI/MD for controlling software agent workers for migrating data between databasesA novel use of AI/MD for controlling software agent workers for migrating data between databases."
 
